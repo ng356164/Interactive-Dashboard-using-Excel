@@ -1,5 +1,5 @@
 # Interactive-Dashboard-using-Excel
-This project involves several stages , including data processing , data cleaning and data visualisation
+This project involves several stages , including data processing , data cleaning and data visualisation and application of MS Excel formulas..
 
 ## Project Objective
 Vrinda store wants to create an annual sales report for 2022, so that the store owner can understand their customers and grow more sales in upcoming years
