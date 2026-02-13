@@ -18,4 +18,10 @@ Vrinda store wants to create an annual sales report for 2022, so that the store 
 - Highest selling category?
 - Percentage of total orders delivered
 
+- 
+## Process
+- Verify data for any  missing values and sorting out it
+- Made sure that data is consistent and clean with respect to data type, data format and values used
+- Created pivot tables according to the questions asked
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic
 
